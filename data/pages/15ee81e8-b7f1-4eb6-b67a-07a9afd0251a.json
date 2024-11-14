@@ -1,0 +1,78 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "55abe85a-56b4-4052-8ba3-96c14a67c0fa"
+      },
+      "event2": {
+        "uuid": "92467865-e00d-4590-8031-ac48f955de88"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "ghfdgjf"
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "55abe85a-56b4-4052-8ba3-96c14a67c0fa"
+      },
+      "event2": {
+        "uuid": "92467865-e00d-4590-8031-ac48f955de88"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "fddj"
+        }
+      ]
+    }
+  ],
+  "title": "fgjfdgj",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "fgjfdgj",
+  "created_at": "2024-11-14T16:56:58.799Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2024-11-14T16:56:58.799Z",
+  "updated_by": "SteveMarvin"
+}
